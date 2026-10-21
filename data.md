@@ -87,13 +87,15 @@
 | 50    | 1     | +122.9   | BSDS online    |           |
 | 50    | 5     | +6.97    | BSDS online    |           |
 | 50    | 1     | -50      | BSDS online    |           |
-| 100   | 7     | -700     | hostel online  |           |
+| 100   | 6     | -700     | hostel online  |           |
 | 100   | 1     | +209.09  | hostel online  |           |
 | 50    | 1     | +115.17  | BSDS online    |           |
 | 50    | 1     | +46.13   | BSDS online    |           |
 | 50    | 3     | -38.53   | BSDS online    |           |
 | 50    | 2     | +48.33   | BSDS online    |           |
+| 50    | 1     | -50      | BSDS online    |           |
+| 50    | 1     | -21.83   | BSDS online    |           |
 | 100   | 6     | -248.21  | hostel online  |           |
-| 100   | 1     | +516.90  | hostel online  |           |
+| 100   | 1     | +516.91  | hostel online  |           |
 
 
