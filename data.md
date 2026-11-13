@@ -98,5 +98,15 @@
 | 100   | 5     | -148.21  | hostel online  |           |
 | 100   | 1     | +516.91  | hostel online  |           |
 | 100   | 1     | +395.36  | hostel online  |           |
-
+| 50    | 1     | -50      | BSDS online    |           |
+| 100   | 2     | -39.62   | hostel online  |           |
+| 100   | 5     | -344.75  | hostel online  |           |
+| 100   | 3     | -300     | hostel online  |           |
+| 50    | 4     | 107.37   | BSDS online    |           |
+| 100   | 1     | +160.97  | hostel online  | Nov 2026  |
+| 100   | 3     | +542.25  | hostel online  |           |
+| 100   | 3     | -251.57  | hostel online  |           |
+| 100   | 1     | +906.55  | hostel online  |           |
+| 100   | 2     | -200     | hostel online  |           |
+| 100   | 1     | +820.57  | hostel online  |           |
 
